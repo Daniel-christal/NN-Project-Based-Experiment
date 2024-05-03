@@ -119,14 +119,18 @@ print(x_single_prediction1)
 ## Output:
 # Training Loss, Validation Loss Vs Iteration Plot:
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/b42a8f34-9887-40a4-9e0c-c8617a4e6c20)
+
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/040f07e6-f06a-4930-9238-6492790fbf18)
+
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/e5ed9bc9-efc4-447d-b1f0-3df6f8e4e3d8)
+
 # Classification Report:
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/17c5ff7b-2bf2-4c50-9c97-93c2030a1c54)
 # Confusion Matrix:
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/d5361be7-0992-4ef1-b697-160100c0237e)
 # New Sample Data Prediction:
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/5124e21e-019b-46da-aba0-6b02ca0ade63)
+
 ![image](https://github.com/Daniel-christal/NN-Project-Based-Experiment/assets/145742847/3eb14d16-b0b5-4a3c-a266-bcd622e9240f)
 
 # Result:
